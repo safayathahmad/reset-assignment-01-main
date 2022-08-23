@@ -181,3 +181,35 @@ span {
 .card-img-top {
     height: 200px;
 }
+
+.date-red {
+    color: red;
+    margin: 0;
+ }
+ 
+ .footer {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    color: black;
+    background: white;
+    padding:100px;
+    box-sizing: border-box;
+    position: relative;
+    font-family: "Sofia", sans-serif;
+ }
+ 
+.row-cotact {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.contact {
+    margin: 0 auto;
+    position: static;
+    z-index: 1;
+}
+
+h3 {
+    text-align: center;
+}
